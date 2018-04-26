@@ -1,0 +1,13 @@
+<view>
+  <view class="index-bd">
+    <view class="kind-list">
+      <block wx:for-items="{{list}}" wx:key="{{item.timerId}}">
+        <view class="kind-list-item">
+          <view id="{{item.timerId}}" class="kind-list-item-hd item.open" bindtap="kindToggle">
+            <view class="kind-list-text">{{item.timerId}}</view>
+          </view>
+        </view>
+      </block>
+    </view>
+  </view>
+</view>

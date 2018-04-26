@@ -1,8 +1,5 @@
 {
 	"description": "项目配置文件。",
-	"packOptions": {
-		"ignore": []
-	},
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
@@ -11,9 +8,9 @@
 		"newFeature": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "1.9.98",
+	"libVersion": "1.9.94",
 	"appid": "wx0d39f5b6eb1f1909",
-	"projectname": "Demo",
+	"projectname": "WebSource",
 	"isGameTourist": false,
 	"condition": {
 		"search": {

@@ -1,0 +1,11 @@
+@import "../../component/index.wxss";
+
+.index-hd{
+  padding: 20px;
+  vertical-align: middle;
+}
+.index-logo {
+  width: 86rpx;
+  height: 86rpx;
+  padding: 0;
+}
